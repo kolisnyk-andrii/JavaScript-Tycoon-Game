@@ -1,2 +1,2 @@
 # JavaScript-Tycoon-Game
-Tycoon game written in JS.
+Tycoon web-game written using JavaScript.
